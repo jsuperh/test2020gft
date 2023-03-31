@@ -11,7 +11,7 @@ Este proyecto es una aplicación Spring Boot que gestiona la información de pre
 
 ## Tecnologías y herramientas utilizadas
 
-- Java 8
+- Java 11
 - Spring Boot
 - Spring Data JPA
 - Hibernate
