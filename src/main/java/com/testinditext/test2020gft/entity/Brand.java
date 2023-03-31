@@ -1,4 +1,4 @@
-package com.testinditext.test2020gft.model;
+package com.testinditext.test2020gft.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

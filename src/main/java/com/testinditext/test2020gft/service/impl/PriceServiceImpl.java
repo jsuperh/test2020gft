@@ -1,6 +1,6 @@
 package com.testinditext.test2020gft.service.impl;
 
-import com.testinditext.test2020gft.model.Price;
+import com.testinditext.test2020gft.entity.Price;
 import com.testinditext.test2020gft.repository.PriceRepository;
 import com.testinditext.test2020gft.service.PriceService;
 import org.springframework.beans.factory.annotation.Autowired;

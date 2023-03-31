@@ -1,7 +1,7 @@
 package com.testinditext.test2020gft.controller;
 
+import com.testinditext.test2020gft.entity.Price;
 import com.testinditext.test2020gft.exception.PriceNotFoundException;
-import com.testinditext.test2020gft.model.Price;
 import com.testinditext.test2020gft.model.PriceResponse;
 import com.testinditext.test2020gft.service.PriceService;
 import org.hibernate.NonUniqueResultException;
